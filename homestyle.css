@@ -1,0 +1,87 @@
+table {
+    width: 100%;
+    
+  }
+  
+  th, td {
+    text-align: left;
+    padding: 10px;
+  }
+  
+  tr:nth-child(even) {
+    background-color: chocolate;
+    color:white
+  }
+
+  body{
+    background-color: grey;
+    background-image: url('cloud.jpg');
+    font-family: sans-serif;
+  }
+  
+  div{
+    background-color: silver;
+    width: 75%;
+    padding: 10px;
+    border: 2px solid;
+    
+    
+  }
+  div.back{
+    background-color: tan;
+    width:80%;
+    padding:10px;
+  }
+
+  div.quote{
+    background-color: grey;
+    width: 50%;
+    padding: 10px;
+  }
+
+  h1{
+    color:white;
+  }
+
+  h1.center{
+    text-align: center;
+  }
+  
+  h2{
+    color:white;
+  }
+
+  img.home{
+    width: 20%
+  }
+
+  header{
+    font-size: 50px;
+    color:white;
+    background-color: grey;
+    text-align: center;
+    border-style: solid;
+    border-color:white;
+
+  }
+
+  a:hover{
+    background-color: salmon;
+  }
+
+  tr.bar{
+    background-color: gray;
+    color:white;
+  }
+
+  span{
+    color:red;
+    font-weight: bold;
+  }
+
+  .center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
